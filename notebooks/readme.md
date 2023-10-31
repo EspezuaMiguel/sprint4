@@ -1,4 +1,6 @@
-# EDA.ipynb  full information include image is too big to be loading on the github 
+# EDA.ipynb  
+
+full information include image is too big to be loading on the github it is compress form
 
 you can find some images or run all again to see the images also I add the html file or open web app
 
