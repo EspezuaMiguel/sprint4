@@ -5,12 +5,12 @@ you can find some images or run all again to see the images also I add the html 
 Thank you for understanding.
 
 
-<img src='table.png'>
-<img src="bar_chart.png">
+<img src='images/table.png'>
+<img src="images/bar_chart.png">
 
-<img src='Histogram_condition_comparison.png'>
+<img src='images/Histogram_condition_comparison.png'>
 
-<img src='two_branch_comparison.png'>
+<img src='images/two_branch_comparison.png'>
 
 
 <html './EDA.html'>
